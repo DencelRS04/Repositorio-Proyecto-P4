@@ -1,0 +1,15 @@
+C:\Users\andra\source\repos\proyecto pII\proyecto pII\bin\Debug\proyecto pII.exe.config
+C:\Users\andra\source\repos\proyecto pII\proyecto pII\bin\Debug\proyecto pII.exe
+C:\Users\andra\source\repos\proyecto pII\proyecto pII\bin\Debug\proyecto pII.pdb
+C:\Users\andra\source\repos\proyecto pII\proyecto pII\obj\Debug\proyecto pII.csproj.AssemblyReference.cache
+C:\Users\andra\source\repos\proyecto pII\proyecto pII\obj\Debug\proyecto_pII.Properties.Resources.resources
+C:\Users\andra\source\repos\proyecto pII\proyecto pII\obj\Debug\proyecto pII.csproj.GenerateResource.cache
+C:\Users\andra\source\repos\proyecto pII\proyecto pII\obj\Debug\proyecto pII.csproj.CoreCompileInputs.cache
+C:\Users\andra\source\repos\proyecto pII\proyecto pII\obj\Debug\proyecto pII.exe
+C:\Users\andra\source\repos\proyecto pII\proyecto pII\obj\Debug\proyecto pII.pdb
+C:\Users\andra\source\repos\proyecto pII\proyecto pII\obj\Debug\proyecto_pII.Consultas.resources
+C:\Users\andra\source\repos\proyecto pII\proyecto pII\obj\Debug\proyecto_pII.CRUD.resources
+C:\Users\andra\source\repos\proyecto pII\proyecto pII\obj\Debug\proyecto_pII.Menu.resources
+C:\Users\andra\source\repos\proyecto pII\proyecto pII\obj\Debug\proyecto_pII.Inicio.resources
+C:\Users\andra\source\repos\proyecto pII\proyecto pII\obj\Debug\proyecto_pII.Reservas.resources
+C:\Users\andra\source\repos\proyecto pII\proyecto pII\obj\Debug\proyecto_pII.Registro.resources

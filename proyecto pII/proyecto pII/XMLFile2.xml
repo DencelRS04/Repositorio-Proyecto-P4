@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<reservas>
+  <reserva>
+    <id>1</id>
+    <fecha>2025-03-08</fecha>
+    <hora>14:00</hora>
+    <ruta>Ruta A</ruta>
+  </reserva>
+  <reserva>
+    <id>2</id>
+    <fecha>2025-03-09</fecha>
+    <hora>16:00</hora>
+    <ruta>Ruta B</ruta>
+  </reserva>
+  <reserva>
+    <fecha>2025-03-08</fecha>
+    <hora>16:00</hora>
+    <ruta>Ruta A</ruta>
+  </reserva>
+  <reserva>
+    <fecha>2025-03-14</fecha>
+    <hora>15:00</hora>
+    <ruta>Ruta B</ruta>
+  </reserva>
+  <reserva>
+    <fecha>2025-03-07</fecha>
+    <hora>23:00</hora>
+    <ruta>Ruta G</ruta>
+    <id>54389034895</id>
+  </reserva>
+  <reserva>
+    <fecha>2025-03-18</fecha>
+    <hora>14:00</hora>
+    <ruta>zaechi</ruta>
+    <id>2323</id>
+  </reserva>
+  <reserva>
+    <fecha>2025-03-27</fecha>
+    <hora>1:00</hora>
+    <ruta>perez</ruta>
+    <id>67</id>
+  </reserva>
+</reservas>

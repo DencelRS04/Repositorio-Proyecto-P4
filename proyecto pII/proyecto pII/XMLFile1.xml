@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Usuarios>
+  <Usuario>
+    <Id>1</Id>
+    <UsuarioName>michaelperez</UsuarioName>
+    <Contraseña>contraseña123</Contraseña>
+    <Cargo>administrador</Cargo>
+    <NombreCompleto>Michael Perez</NombreCompleto>
+    <CorreoElectronico>michael.perez@example.com</CorreoElectronico>
+    <Telefono>123456789</Telefono>
+  </Usuario>
+  <Usuario>
+    <Id>2</Id>
+    <UsuarioName>sandra.garcia</UsuarioName>
+    <Contraseña>contraseña456</Contraseña>
+    <Cargo>Aministrador</Cargo>
+    <NombreCompleto>Sandra Garcia Rojas</NombreCompleto>
+    <CorreoElectronico>sandra.garcia@example.com</CorreoElectronico>
+    <Telefono>987654321</Telefono>
+  </Usuario>
+  <Usuario>
+    <Id>3</Id>
+    <UsuarioName>marvinrodriguez</UsuarioName>
+    <Contraseña>contraseña789</Contraseña>
+    <Cargo>chofer</Cargo>
+    <NombreCompleto>Marvin Rodriguez</NombreCompleto>
+    <CorreoElectronico>marvin.rodriguez@example.com</CorreoElectronico>
+    <Telefono>456123789</Telefono>
+  </Usuario>
+  <Contraseña>pa3</Contraseña>
+  <Usuarios>
+    <Id>21434</Id>
+    <NombreCompleto>234234</NombreCompleto>
+    <Cargo>234234</Cargo>
+    <Telefono>23423</Telefono>
+    <CorreoElectronico>234234</CorreoElectronico>
+    <UsuarioName>danie23</UsuarioName>
+    <Contraseña>dani</Contraseña>
+  </Usuarios>
+  <Usuarios>
+    <Id>ewqedasd</Id>
+    <NombreCompleto>dasdassd</NombreCompleto>
+    <Cargo>dasd</Cargo>
+    <Telefono>dasdasd</Telefono>
+    <CorreoElectronico>dasdasd</CorreoElectronico>
+    <UsuarioName>sebas</UsuarioName>
+    <Contraseña>2321</Contraseña>
+  </Usuarios>
+  <Usuarios>
+    <Id>jjjhjhj</Id>
+    <NombreCompleto>hujhugy</NombreCompleto>
+    <Cargo>jojo</Cargo>
+    <Telefono>jnjonoui</Telefono>
+    <CorreoElectronico>
+    </CorreoElectronico>
+    <UsuarioName>oioj</UsuarioName>
+    <Contraseña>hjo</Contraseña>
+  </Usuarios>
+  <Usuarios>
+    <Id>
+    </Id>
+    <NombreCompleto>
+    </NombreCompleto>
+    <Cargo>
+    </Cargo>
+    <Telefono>
+    </Telefono>
+    <CorreoElectronico>
+    </CorreoElectronico>
+    <UsuarioName>
+    </UsuarioName>
+    <Contraseña>
+    </Contraseña>
+  </Usuarios>
+</Usuarios>
