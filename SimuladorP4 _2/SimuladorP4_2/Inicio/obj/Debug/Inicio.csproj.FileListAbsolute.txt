@@ -1,0 +1,111 @@
+C:\Users\andra\OneDrive\Documentos\SimuladorP4\Inicio\bin\Debug\Inicio.exe.config
+C:\Users\andra\OneDrive\Documentos\SimuladorP4\Inicio\bin\Debug\Inicio.exe
+C:\Users\andra\OneDrive\Documentos\SimuladorP4\Inicio\bin\Debug\Inicio.pdb
+C:\Users\andra\OneDrive\Documentos\SimuladorP4\Inicio\obj\Debug\Inicio.csproj.AssemblyReference.cache
+C:\Users\andra\OneDrive\Documentos\SimuladorP4\Inicio\obj\Debug\Inicio.Inicio.resources
+C:\Users\andra\OneDrive\Documentos\SimuladorP4\Inicio\obj\Debug\Inicio.Menu.resources
+C:\Users\andra\OneDrive\Documentos\SimuladorP4\Inicio\obj\Debug\Inicio.Properties.Resources.resources
+C:\Users\andra\OneDrive\Documentos\SimuladorP4\Inicio\obj\Debug\Inicio.csproj.GenerateResource.cache
+C:\Users\andra\OneDrive\Documentos\SimuladorP4\Inicio\obj\Debug\Inicio.csproj.CoreCompileInputs.cache
+C:\Users\andra\OneDrive\Documentos\SimuladorP4\Inicio\obj\Debug\Inicio.exe
+C:\Users\andra\OneDrive\Documentos\SimuladorP4\Inicio\obj\Debug\Inicio.pdb
+C:\Users\andra\OneDrive\Documentos\SimuladorP4\Inicio\obj\Debug\Inicio.Entrada_de_Productos.resources
+C:\Users\andra\OneDrive\Documentos\SimuladorP4\Inicio\obj\Debug\Inicio.Mantenimiemto_de_Provedores.resources
+C:\Users\andra\OneDrive\Documentos\SimuladorP4\Inicio\obj\Debug\Inicio.exe.config
+C:\Users\andra\OneDrive\Documentos\SimuladorP4\Inicio\obj\Debug\Inicio.Mantenimientos_de_Clientes.resources
+C:\Users\andra\OneDrive\Documentos\SimuladorP4\Inicio\obj\Debug\Inicio.compras.resources
+K:\Jose Lopez\Desktop\SimuladorP4 (4)\SimuladorP4\Inicio\bin\Debug\Inicio.exe.config
+K:\Jose Lopez\Desktop\SimuladorP4 (4)\SimuladorP4\Inicio\bin\Debug\Inicio.exe
+K:\Jose Lopez\Desktop\SimuladorP4 (4)\SimuladorP4\Inicio\bin\Debug\Inicio.pdb
+K:\Jose Lopez\Desktop\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.csproj.AssemblyReference.cache
+K:\Jose Lopez\Desktop\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.exe.config
+K:\Jose Lopez\Desktop\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.compras.resources
+K:\Jose Lopez\Desktop\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.Entrada_de_Productos.resources
+K:\Jose Lopez\Desktop\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.Inicio.resources
+K:\Jose Lopez\Desktop\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.Mantenimiemto_de_Provedores.resources
+K:\Jose Lopez\Desktop\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.Mantenimientos_de_Clientes.resources
+K:\Jose Lopez\Desktop\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.Menu.resources
+K:\Jose Lopez\Desktop\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.Properties.Resources.resources
+K:\Jose Lopez\Desktop\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.csproj.GenerateResource.cache
+K:\Jose Lopez\Desktop\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.csproj.CoreCompileInputs.cache
+K:\Jose Lopez\Desktop\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.exe
+K:\Jose Lopez\Desktop\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.pdb
+K:\Jose Lopez\Desktop\SimuladorP4 (4)\SimuladorP4\Inicio\bin\Debug\Newtonsoft.Json.dll
+K:\Jose Lopez\Desktop\SimuladorP4 (4)\SimuladorP4\Inicio\bin\Debug\Newtonsoft.Json.xml
+K:\Jose Lopez\Desktop\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.csproj.Up2Date
+C:\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\bin\Debug\Inicio.exe.config
+C:\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\bin\Debug\Inicio.exe
+C:\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\bin\Debug\Inicio.pdb
+C:\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\bin\Debug\Newtonsoft.Json.dll
+C:\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\bin\Debug\Newtonsoft.Json.xml
+C:\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.csproj.AssemblyReference.cache
+C:\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.compras.resources
+C:\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.Entrada_de_Productos.resources
+C:\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.Inicio.resources
+C:\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.Mantenimientos_de_Clientes.resources
+C:\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.Menu.resources
+C:\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.Properties.Resources.resources
+C:\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.csproj.GenerateResource.cache
+C:\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.csproj.CoreCompileInputs.cache
+C:\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.csproj.Up2Date
+C:\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.exe
+C:\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.pdb
+C:\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.Mantenimiento_de_Proveedores.resources
+C:\Users\XPC\Downloads\proyectp4\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\bin\Debug\Inicio.exe.config
+C:\Users\XPC\Downloads\proyectp4\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\bin\Debug\Inicio.exe
+C:\Users\XPC\Downloads\proyectp4\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\bin\Debug\Inicio.pdb
+C:\Users\XPC\Downloads\proyectp4\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\XPC\Downloads\proyectp4\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\XPC\Downloads\proyectp4\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.csproj.AssemblyReference.cache
+C:\Users\XPC\Downloads\proyectp4\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.compras.resources
+C:\Users\XPC\Downloads\proyectp4\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.Entrada_de_Productos.resources
+C:\Users\XPC\Downloads\proyectp4\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.Inicio.resources
+C:\Users\XPC\Downloads\proyectp4\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.Mantenimiento_de_Proveedores.resources
+C:\Users\XPC\Downloads\proyectp4\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.Mantenimientos_de_Clientes.resources
+C:\Users\XPC\Downloads\proyectp4\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.Menu.resources
+C:\Users\XPC\Downloads\proyectp4\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.Properties.Resources.resources
+C:\Users\XPC\Downloads\proyectp4\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.csproj.GenerateResource.cache
+C:\Users\XPC\Downloads\proyectp4\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.csproj.CoreCompileInputs.cache
+C:\Users\XPC\Downloads\proyectp4\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.csproj.Up2Date
+C:\Users\XPC\Downloads\proyectp4\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.exe
+C:\Users\XPC\Downloads\proyectp4\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.pdb
+C:\Users\dence\Downloads\proyectp4\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\bin\Debug\Inicio.exe.config
+C:\Users\dence\Downloads\proyectp4\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\bin\Debug\Inicio.exe
+C:\Users\dence\Downloads\proyectp4\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\bin\Debug\Inicio.pdb
+C:\Users\dence\Downloads\proyectp4\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dence\Downloads\proyectp4\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dence\Downloads\proyectp4\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.csproj.AssemblyReference.cache
+C:\Users\dence\Downloads\proyectp4\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.compras.resources
+C:\Users\dence\Downloads\proyectp4\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.Entrada_de_Productos.resources
+C:\Users\dence\Downloads\proyectp4\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.Inicio.resources
+C:\Users\dence\Downloads\proyectp4\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.Mantenimientos_de_Clientes.resources
+C:\Users\dence\Downloads\proyectp4\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.Menu.resources
+C:\Users\dence\Downloads\proyectp4\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.Properties.Resources.resources
+C:\Users\dence\Downloads\proyectp4\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.csproj.GenerateResource.cache
+C:\Users\dence\Downloads\proyectp4\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.csproj.CoreCompileInputs.cache
+C:\Users\dence\Downloads\proyectp4\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.csproj.Up2Date
+C:\Users\dence\Downloads\proyectp4\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.exe
+C:\Users\dence\Downloads\proyectp4\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.pdb
+C:\Users\dence\Downloads\proyectp4\proyectp4\SimuladorP4 (4)\SimuladorP4\Inicio\obj\Debug\Inicio.Proveedor.resources
+E:\proyectp4\proyectp4\SimuladorP4 _2\SimuladorP4_2\Inicio\obj\Debug\Inicio.csproj.AssemblyReference.cache
+E:\proyectp4\proyectp4\SimuladorP4 _2\SimuladorP4_2\Inicio\obj\Debug\Inicio.exe.config
+E:\proyectp4\proyectp4\SimuladorP4 _2\SimuladorP4_2\Inicio\obj\Debug\Inicio.compras.resources
+E:\proyectp4\proyectp4\SimuladorP4 _2\SimuladorP4_2\Inicio\obj\Debug\Inicio.Entrada_de_Productos.resources
+E:\proyectp4\proyectp4\SimuladorP4 _2\SimuladorP4_2\Inicio\obj\Debug\Inicio.Inicio.resources
+E:\proyectp4\proyectp4\SimuladorP4 _2\SimuladorP4_2\Inicio\obj\Debug\Inicio.Proveedor.resources
+E:\proyectp4\proyectp4\SimuladorP4 _2\SimuladorP4_2\Inicio\obj\Debug\Inicio.Mantenimientos_de_Clientes.resources
+E:\proyectp4\proyectp4\SimuladorP4 _2\SimuladorP4_2\Inicio\obj\Debug\Inicio.Menu.resources
+E:\proyectp4\proyectp4\SimuladorP4 _2\SimuladorP4_2\Inicio\obj\Debug\Inicio.Properties.Resources.resources
+E:\proyectp4\proyectp4\SimuladorP4 _2\SimuladorP4_2\Inicio\obj\Debug\Inicio.csproj.GenerateResource.cache
+E:\proyectp4\proyectp4\SimuladorP4 _2\SimuladorP4_2\Inicio\obj\Debug\Inicio.csproj.CoreCompileInputs.cache
+E:\proyectp4\proyectp4\SimuladorP4 _2\SimuladorP4_2\Inicio\obj\Debug\Inicio.exe
+E:\proyectp4\proyectp4\SimuladorP4 _2\SimuladorP4_2\Inicio\obj\Debug\Inicio.pdb
+E:\proyectp4\proyectp4\SimuladorP4 _2\SimuladorP4_2\Inicio\bin\Debug\Inicio.exe.config
+E:\proyectp4\proyectp4\SimuladorP4 _2\SimuladorP4_2\Inicio\bin\Debug\Inicio.exe
+E:\proyectp4\proyectp4\SimuladorP4 _2\SimuladorP4_2\Inicio\bin\Debug\Inicio.pdb
+E:\proyectp4\proyectp4\SimuladorP4 _2\SimuladorP4_2\Inicio\bin\Debug\Newtonsoft.Json.dll
+E:\proyectp4\proyectp4\SimuladorP4 _2\SimuladorP4_2\Inicio\bin\Debug\Newtonsoft.Json.xml
+E:\proyectp4\proyectp4\SimuladorP4 _2\SimuladorP4_2\Inicio\obj\Debug\Login.LoginI.resources
+E:\proyectp4\proyectp4\SimuladorP4 _2\SimuladorP4_2\Inicio\obj\Debug\Inicio.csproj.Up2Date
+E:\proyectp4\proyectp4\SimuladorP4 _2\SimuladorP4_2\Inicio\obj\Debug\Inicio.Registro.resources
+E:\proyectp4\proyectp4\SimuladorP4 _2\SimuladorP4_2\Inicio\obj\Debug\Inicio.ModificacionUsuarios.resources

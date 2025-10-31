@@ -1,0 +1,387 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\Entrada de Productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|solutionrelative:Inicio\\Entrada de Productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\inicio\\entrada de productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|solutionrelative:inicio\\entrada de productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|c:\\users\\dence\\downloads\\proyectp4\\proyectp4\\simuladorp4 (4)\\simuladorp4\\inicio\\mantenimiemto _de_ provedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|solutionrelative:inicio\\mantenimiemto _de_ provedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\inicio\\mantenimientos de clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|solutionrelative:inicio\\mantenimientos de clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\Mantenimiemto _de_ Provedores.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|solutionrelative:Inicio\\Mantenimiemto _de_ Provedores.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\inicio\\compras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|solutionrelative:inicio\\compras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\inicio\\mantenimientos de clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|solutionrelative:inicio\\mantenimientos de clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|solutionrelative:Inicio\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\ProductosT.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|solutionrelative:Inicio\\ProductosT.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\SocketHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|solutionrelative:Inicio\\SocketHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\compras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|solutionrelative:Inicio\\compras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\Entrada de Productos.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|solutionrelative:Inicio\\Entrada de Productos.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|solutionrelative:Inicio\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\Entrada de Productos.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|solutionrelative:Inicio\\Entrada de Productos.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|solutionrelative:Inicio\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\productos.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|solutionrelative:Inicio\\productos.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\inicio\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|solutionrelative:inicio\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\Menu.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|solutionrelative:Inicio\\Menu.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\Mantenimientos de Clientes.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|solutionrelative:Inicio\\Mantenimientos de Clientes.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\compras.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|solutionrelative:Inicio\\compras.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\Inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|solutionrelative:Inicio\\Inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\Inicio.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|solutionrelative:Inicio\\Inicio.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mantenimientos de Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\Mantenimientos de Clientes.cs",
+              "RelativeDocumentMoniker": "Inicio\\Mantenimientos de Clientes.cs",
+              "ToolTip": "C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\Mantenimientos de Clientes.cs",
+              "RelativeToolTip": "Inicio\\Mantenimientos de Clientes.cs",
+              "ViewState": "AgIAAD8BAAAAAAAAAAAzwE8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T05:46:52.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "compras.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\compras.cs",
+              "RelativeDocumentMoniker": "Inicio\\compras.cs",
+              "ToolTip": "C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\compras.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Inicio\\compras.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T01:28:35.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mantenimiemto _de_ Provedores.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\Mantenimiemto _de_ Provedores.Designer.cs",
+              "RelativeDocumentMoniker": "Inicio\\Mantenimiemto _de_ Provedores.Designer.cs",
+              "ToolTip": "C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\Mantenimiemto _de_ Provedores.Designer.cs",
+              "RelativeToolTip": "Inicio\\Mantenimiemto _de_ Provedores.Designer.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAYwAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:09:36.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Entrada de Productos.cs",
+              "DocumentMoniker": "C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\Entrada de Productos.cs",
+              "RelativeDocumentMoniker": "Inicio\\Entrada de Productos.cs",
+              "ToolTip": "C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\Entrada de Productos.cs",
+              "RelativeToolTip": "Inicio\\Entrada de Productos.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAmwNMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T00:55:48.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mantenimiemto _de_ Provedores.cs",
+              "DocumentMoniker": "C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\Mantenimiemto _de_ Provedores.cs",
+              "RelativeDocumentMoniker": "Inicio\\Mantenimiemto _de_ Provedores.cs",
+              "ToolTip": "C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\Mantenimiemto _de_ Provedores.cs",
+              "RelativeToolTip": "Inicio\\Mantenimiemto _de_ Provedores.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAqwLUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:57:09.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Entrada de Productos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\Entrada de Productos.cs",
+              "RelativeDocumentMoniker": "Inicio\\Entrada de Productos.cs",
+              "ToolTip": "C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\Entrada de Productos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Inicio\\Entrada de Productos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T00:55:31.735Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mantenimientos de Clientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\Mantenimientos de Clientes.cs",
+              "RelativeDocumentMoniker": "Inicio\\Mantenimientos de Clientes.cs",
+              "ToolTip": "C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\Mantenimientos de Clientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Inicio\\Mantenimientos de Clientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T05:46:50.982Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\Program.cs",
+              "RelativeDocumentMoniker": "Inicio\\Program.cs",
+              "ToolTip": "C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\Program.cs",
+              "RelativeToolTip": "Inicio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T00:07:06.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductosT.cs",
+              "DocumentMoniker": "C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\ProductosT.cs",
+              "RelativeDocumentMoniker": "Inicio\\ProductosT.cs",
+              "ToolTip": "C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\ProductosT.cs",
+              "RelativeToolTip": "Inicio\\ProductosT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T01:43:14.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SocketHelper.cs",
+              "DocumentMoniker": "C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\SocketHelper.cs",
+              "RelativeDocumentMoniker": "Inicio\\SocketHelper.cs",
+              "ToolTip": "C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\SocketHelper.cs",
+              "RelativeToolTip": "Inicio\\SocketHelper.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAmwHAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T01:45:44.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "compras.cs",
+              "DocumentMoniker": "C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\compras.cs",
+              "RelativeDocumentMoniker": "Inicio\\compras.cs",
+              "ToolTip": "C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\compras.cs",
+              "RelativeToolTip": "Inicio\\compras.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAswL8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T01:41:31.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\Menu.cs",
+              "RelativeDocumentMoniker": "Inicio\\Menu.cs",
+              "ToolTip": "C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\Menu.cs",
+              "RelativeToolTip": "Inicio\\Menu.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwA8BAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T04:12:02.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "productos.cs",
+              "DocumentMoniker": "C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\productos.cs",
+              "RelativeDocumentMoniker": "Inicio\\productos.cs",
+              "ToolTip": "C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\productos.cs",
+              "RelativeToolTip": "Inicio\\productos.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAYwIgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T01:10:22.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Entrada de Productos.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\Entrada de Productos.Designer.cs",
+              "RelativeDocumentMoniker": "Inicio\\Entrada de Productos.Designer.cs",
+              "ToolTip": "C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\Entrada de Productos.Designer.cs",
+              "RelativeToolTip": "Inicio\\Entrada de Productos.Designer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T01:20:48.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Entrada de Productos.resx",
+              "DocumentMoniker": "C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\Entrada de Productos.resx",
+              "RelativeDocumentMoniker": "Inicio\\Entrada de Productos.resx",
+              "ToolTip": "C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\Entrada de Productos.resx",
+              "RelativeToolTip": "Inicio\\Entrada de Productos.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-10-08T05:07:54.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "productos.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\productos.Designer.cs",
+              "RelativeDocumentMoniker": "Inicio\\productos.Designer.cs",
+              "ToolTip": "C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\productos.Designer.cs",
+              "RelativeToolTip": "Inicio\\productos.Designer.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAOIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T01:31:16.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Inicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\Inicio.cs",
+              "RelativeDocumentMoniker": "Inicio\\Inicio.cs",
+              "ToolTip": "C:\\Users\\XPC\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\Inicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\XPC\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\Inicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T04:09:23.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Menu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\Menu.Designer.cs",
+              "RelativeDocumentMoniker": "Inicio\\Menu.Designer.cs",
+              "ToolTip": "C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\Menu.Designer.cs",
+              "RelativeToolTip": "Inicio\\Menu.Designer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvywAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T01:54:16.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Mantenimientos de Clientes.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\Mantenimientos de Clientes.Designer.cs",
+              "RelativeDocumentMoniker": "Inicio\\Mantenimientos de Clientes.Designer.cs",
+              "ToolTip": "C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\Mantenimientos de Clientes.Designer.cs",
+              "RelativeToolTip": "Inicio\\Mantenimientos de Clientes.Designer.cs",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAqwCQBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T21:18:44.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "compras.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\compras.Designer.cs",
+              "RelativeDocumentMoniker": "Inicio\\compras.Designer.cs",
+              "ToolTip": "C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\compras.Designer.cs",
+              "RelativeToolTip": "Inicio\\compras.Designer.cs",
+              "ViewState": "AgIAAG4BAAAAAAAAAAAIwKIBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T01:41:51.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Inicio.cs",
+              "DocumentMoniker": "C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\Inicio.cs",
+              "RelativeDocumentMoniker": "Inicio\\Inicio.cs",
+              "ToolTip": "C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\Inicio.cs",
+              "RelativeToolTip": "Inicio\\Inicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:00:58.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Inicio.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\Inicio.Designer.cs",
+              "RelativeDocumentMoniker": "Inicio\\Inicio.Designer.cs",
+              "ToolTip": "C:\\Users\\dence\\Downloads\\proyectp4\\proyectp4\\SimuladorP4 (4)\\SimuladorP4\\Inicio\\Inicio.Designer.cs",
+              "RelativeToolTip": "Inicio\\Inicio.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:01:07.293Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andra\\OneDrive\\Documentos\\SimuladorP4 _2\\SimuladorP4_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|C:\\Users\\andra\\OneDrive\\Documentos\\SimuladorP4 _2\\SimuladorP4_2\\inicio\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|solutionrelative:inicio\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|c:\\users\\andra\\onedrive\\documentos\\simuladorp4 _2\\simuladorp4_2\\inicio\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|solutionrelative:inicio\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|C:\\Users\\andra\\OneDrive\\Documentos\\SimuladorP4 _2\\SimuladorP4_2\\inicio\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|solutionrelative:inicio\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|C:\\Users\\andra\\OneDrive\\Documentos\\SimuladorP4 _2\\SimuladorP4_2\\inicio\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|solutionrelative:inicio\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|C:\\Users\\andra\\OneDrive\\Documentos\\SimuladorP4 _2\\SimuladorP4_2\\inicio\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|solutionrelative:inicio\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|C:\\Users\\andra\\OneDrive\\Documentos\\SimuladorP4 _2\\SimuladorP4_2\\inicio\\modificacionusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|solutionrelative:inicio\\modificacionusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|C:\\Users\\andra\\OneDrive\\Documentos\\SimuladorP4 _2\\SimuladorP4_2\\inicio\\modificacionusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|solutionrelative:inicio\\modificacionusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|C:\\Users\\andra\\OneDrive\\Documentos\\SimuladorP4 _2\\SimuladorP4_2\\inicio\\registro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|solutionrelative:inicio\\registro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|C:\\Users\\andra\\OneDrive\\Documentos\\SimuladorP4 _2\\SimuladorP4_2\\inicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|solutionrelative:inicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|C:\\Users\\andra\\OneDrive\\Documentos\\SimuladorP4 _2\\SimuladorP4_2\\inicio\\logini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|solutionrelative:inicio\\logini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|C:\\Users\\andra\\OneDrive\\Documentos\\SimuladorP4 _2\\SimuladorP4_2\\inicio\\logini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|solutionrelative:inicio\\logini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|C:\\Users\\andra\\OneDrive\\Documentos\\SimuladorP4 _2\\SimuladorP4_2\\inicio\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|solutionrelative:inicio\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|C:\\Users\\andra\\OneDrive\\Documentos\\SimuladorP4 _2\\SimuladorP4_2\\inicio\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|solutionrelative:inicio\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|C:\\Users\\andra\\OneDrive\\Documentos\\SimuladorP4 _2\\SimuladorP4_2\\inicio\\mantenimientos de clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|solutionrelative:inicio\\mantenimientos de clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|C:\\Users\\andra\\OneDrive\\Documentos\\SimuladorP4 _2\\SimuladorP4_2\\inicio\\productost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|solutionrelative:inicio\\productost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|C:\\Users\\andra\\OneDrive\\Documentos\\SimuladorP4 _2\\SimuladorP4_2\\inicio\\mantenimientos de clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2EF0A5-C1FD-4C37-8245-65E9EE7FAA94}|Inicio\\Inicio.csproj|solutionrelative:inicio\\mantenimientos de clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registro.cs",
+              "DocumentMoniker": "C:\\Users\\andra\\OneDrive\\Documentos\\SimuladorP4 _2\\SimuladorP4_2\\Inicio\\Registro.cs",
+              "RelativeDocumentMoniker": "Inicio\\Registro.cs",
+              "ToolTip": "C:\\Users\\andra\\OneDrive\\Documentos\\SimuladorP4 _2\\SimuladorP4_2\\Inicio\\Registro.cs",
+              "RelativeToolTip": "Inicio\\Registro.cs",
+              "ViewState": "AgIAAC8BAAAAAAAAAAAiwEIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T02:14:43.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Registro.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\andra\\OneDrive\\Documentos\\SimuladorP4 _2\\SimuladorP4_2\\Inicio\\Registro.cs",
+              "RelativeDocumentMoniker": "Inicio\\Registro.cs",
+              "ToolTip": "C:\\Users\\andra\\OneDrive\\Documentos\\SimuladorP4 _2\\SimuladorP4_2\\Inicio\\Registro.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Inicio\\Registro.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T02:14:38.318Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginI.cs",
+              "DocumentMoniker": "C:\\Users\\andra\\OneDrive\\Documentos\\SimuladorP4 _2\\SimuladorP4_2\\Inicio\\LoginI.cs",
+              "RelativeDocumentMoniker": "Inicio\\LoginI.cs",
+              "ToolTip": "C:\\Users\\andra\\OneDrive\\Documentos\\SimuladorP4 _2\\SimuladorP4_2\\Inicio\\LoginI.cs",
+              "RelativeToolTip": "Inicio\\LoginI.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAYwCkBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T01:39:05.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginI.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\andra\\OneDrive\\Documentos\\SimuladorP4 _2\\SimuladorP4_2\\Inicio\\LoginI.cs",
+              "RelativeDocumentMoniker": "Inicio\\LoginI.cs",
+              "ToolTip": "E:\\proyectp4\\proyectp4\\SimuladorP4 _2\\SimuladorP4_2\\Inicio\\LoginI.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T01:38:55.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ModificacionUsuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\andra\\OneDrive\\Documentos\\SimuladorP4 _2\\SimuladorP4_2\\Inicio\\ModificacionUsuarios.cs",
+              "RelativeDocumentMoniker": "Inicio\\ModificacionUsuarios.cs",
+              "ToolTip": "E:\\proyectp4\\proyectp4\\SimuladorP4 _2\\SimuladorP4_2\\Inicio\\ModificacionUsuarios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T02:15:48.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\andra\\OneDrive\\Documentos\\SimuladorP4 _2\\SimuladorP4_2\\Inicio\\Menu.cs",
+              "RelativeDocumentMoniker": "Inicio\\Menu.cs",
+              "ToolTip": "E:\\proyectp4\\proyectp4\\SimuladorP4 _2\\SimuladorP4_2\\Inicio\\Menu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T01:58:46.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\andra\\OneDrive\\Documentos\\SimuladorP4 _2\\SimuladorP4_2\\Inicio\\Menu.cs",
+              "RelativeDocumentMoniker": "Inicio\\Menu.cs",
+              "ToolTip": "C:\\Users\\andra\\OneDrive\\Documentos\\SimuladorP4 _2\\SimuladorP4_2\\Inicio\\Menu.cs",
+              "RelativeToolTip": "Inicio\\Menu.cs",
+              "ViewState": "AgIAAA8BAAAAAAAAAAArwE4BAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T02:05:58.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "productos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\andra\\OneDrive\\Documentos\\SimuladorP4 _2\\SimuladorP4_2\\Inicio\\productos.cs",
+              "RelativeDocumentMoniker": "Inicio\\productos.cs",
+              "ToolTip": "E:\\proyectp4\\proyectp4\\SimuladorP4 _2\\SimuladorP4_2\\Inicio\\productos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T01:19:13.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModificacionUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\andra\\OneDrive\\Documentos\\SimuladorP4 _2\\SimuladorP4_2\\Inicio\\ModificacionUsuarios.cs",
+              "RelativeDocumentMoniker": "Inicio\\ModificacionUsuarios.cs",
+              "ToolTip": "C:\\Users\\andra\\OneDrive\\Documentos\\SimuladorP4 _2\\SimuladorP4_2\\Inicio\\ModificacionUsuarios.cs",
+              "RelativeToolTip": "Inicio\\ModificacionUsuarios.cs",
+              "ViewState": "AgIAAPEBAAAAAAAAAAAswBwCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T02:53:59.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Mantenimientos de Clientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\andra\\OneDrive\\Documentos\\SimuladorP4 _2\\SimuladorP4_2\\Inicio\\Mantenimientos de Clientes.cs",
+              "RelativeDocumentMoniker": "Inicio\\Mantenimientos de Clientes.cs",
+              "ToolTip": "E:\\proyectp4\\proyectp4\\SimuladorP4 _2\\SimuladorP4_2\\Inicio\\Mantenimientos de Clientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T01:39:18.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Registro.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\andra\\OneDrive\\Documentos\\SimuladorP4 _2\\SimuladorP4_2\\Inicio\\Registro.Designer.cs",
+              "RelativeDocumentMoniker": "Inicio\\Registro.Designer.cs",
+              "ToolTip": "C:\\Users\\andra\\OneDrive\\Documentos\\SimuladorP4 _2\\SimuladorP4_2\\Inicio\\Registro.Designer.cs",
+              "RelativeToolTip": "Inicio\\Registro.Designer.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwCcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T02:35:58.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andra\\OneDrive\\Documentos\\SimuladorP4 _2\\SimuladorP4_2\\Inicio\\Program.cs",
+              "RelativeDocumentMoniker": "Inicio\\Program.cs",
+              "ToolTip": "C:\\Users\\andra\\OneDrive\\Documentos\\SimuladorP4 _2\\SimuladorP4_2\\Inicio\\Program.cs",
+              "RelativeToolTip": "Inicio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T01:38:13.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Inicio.cs",
+              "DocumentMoniker": "C:\\Users\\andra\\OneDrive\\Documentos\\SimuladorP4 _2\\SimuladorP4_2\\Inicio\\Inicio.cs",
+              "RelativeDocumentMoniker": "Inicio\\Inicio.cs",
+              "ToolTip": "C:\\Users\\andra\\OneDrive\\Documentos\\SimuladorP4 _2\\SimuladorP4_2\\Inicio\\Inicio.cs",
+              "RelativeToolTip": "Inicio\\Inicio.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAIA0wM4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T01:37:02.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Inicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\andra\\OneDrive\\Documentos\\SimuladorP4 _2\\SimuladorP4_2\\Inicio\\Inicio.cs",
+              "RelativeDocumentMoniker": "Inicio\\Inicio.cs",
+              "ToolTip": "E:\\proyectp4\\proyectp4\\SimuladorP4 _2\\SimuladorP4_2\\Inicio\\Inicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T01:37:00.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductosT.cs",
+              "DocumentMoniker": "C:\\Users\\andra\\OneDrive\\Documentos\\SimuladorP4 _2\\SimuladorP4_2\\Inicio\\ProductosT.cs",
+              "RelativeDocumentMoniker": "Inicio\\ProductosT.cs",
+              "ToolTip": "C:\\Users\\andra\\OneDrive\\Documentos\\SimuladorP4 _2\\SimuladorP4_2\\Inicio\\ProductosT.cs",
+              "RelativeToolTip": "Inicio\\ProductosT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T01:43:03.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Mantenimientos de Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\andra\\OneDrive\\Documentos\\SimuladorP4 _2\\SimuladorP4_2\\Inicio\\Mantenimientos de Clientes.cs",
+              "RelativeDocumentMoniker": "Inicio\\Mantenimientos de Clientes.cs",
+              "ToolTip": "C:\\Users\\andra\\OneDrive\\Documentos\\SimuladorP4 _2\\SimuladorP4_2\\Inicio\\Mantenimientos de Clientes.cs",
+              "RelativeToolTip": "Inicio\\Mantenimientos de Clientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T01:39:19.039Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
