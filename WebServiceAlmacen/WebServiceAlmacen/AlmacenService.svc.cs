@@ -1,38 +1,46 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Runtime.Serialization;
-using System.ServiceModel;
-using System.ServiceModel.Web;
-using System.Text;
+using WebServiceAlmacen.Entities;
 
 namespace WebServiceAlmacen
 {
-    // NOTA: puede usar el comando "Rename" del menú "Refactorizar" para cambiar el nombre de clase "Service1" en el código, en svc y en el archivo de configuración.
-    // NOTE: para iniciar el Cliente de prueba WCF para probar este servicio, seleccione Service1.svc o Service1.svc.cs en el Explorador de soluciones e inicie la depuración.
     public class AlmacenService : IAlmacen
     {
-        public IEnumerable<IAlmacen> Consultar()
+        public StandardResponse MantenimientoProducto(string tipoTransaccion, string numeroProducto, string nombreProducto, decimal precio)
         {
-            throw new NotImplementedException();
+            try
+            {
+                // Simulación
+                return new StandardResponse { Resultado = true, Mensaje = "Producto procesado correctamente." };
+            }
+            catch (Exception ex)
+            {
+                return new StandardResponse { Resultado = false, Mensaje = "Error: " + ex.Message };
+            }
         }
 
-        public string GetData(int value)
+        public StandardResponse MantenimientoProveedor(string tipoTransaccion, string cedulaJuridica, string nombreEmpresa, string nombreContacto, string telefono, string correoElectronico, string estado)
         {
-            return string.Format("You entered: {0}", value);
+            try
+            {
+                return new StandardResponse { Resultado = true, Mensaje = "Proveedor procesado correctamente." };
+            }
+            catch (Exception ex)
+            {
+                return new StandardResponse { Resultado = false, Mensaje = "Error: " + ex.Message };
+            }
         }
 
-        public CompositeType GetDataUsingDataContract(CompositeType composite)
+        public StandardResponse RegistrarCompra(string numeroIngreso, DateTime fechaCompra, string cedulaJuridica, List<DetalleCompra> listaProductos)
         {
-            if (composite == null)
+            try
             {
-                throw new ArgumentNullException("composite");
+                return new StandardResponse { Resultado = true, Mensaje = "Compra registrada correctamente." };
             }
-            if (composite.BoolValue)
+            catch (Exception ex)
             {
-                composite.StringValue += "Suffix";
+                return new StandardResponse { Resultado = false, Mensaje = "Error: " + ex.Message };
             }
-            return composite;
         }
     }
 }

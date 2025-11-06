@@ -68,8 +68,10 @@
     <Compile Include="AlmacenService.svc.cs">
       <DependentUpon>AlmacenService.svc</DependentUpon>
     </Compile>
-    <Compile Include="IAlmacen.cs" />
+    <Compile Include="Entities\DetalleCompra.cs" />
+    <Compile Include="Interfaces\IAlmacen.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Entities\StandardResponse.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
