@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:65513/AlmacenService.svc" uri="wsdl/localhost_65513/AlmacenService.svc.xml"/>
+    <system systemId="http://localhost:65513/AlmacenService.svc?wsdl" uri="wsdl/localhost_65513/AlmacenService.svc.wsdl"/>
+    <system systemId="http://localhost:65513/AlmacenService.svc?xsd=xsd0" uri="wsdl/localhost_65513/AlmacenService.svc.xsd_xsd0.xsd"/>
+    <system systemId="http://localhost:65513/AlmacenService.svc?xsd=xsd1" uri="wsdl/localhost_65513/AlmacenService.svc.xsd_xsd1.xsd"/>
+    <system systemId="http://localhost:65513/AlmacenService.svc?xsd=xsd2" uri="wsdl/localhost_65513/AlmacenService.svc.xsd_xsd2.xsd"/>
+</catalog>

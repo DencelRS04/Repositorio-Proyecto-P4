@@ -1,0 +1,56 @@
+{ "fechaHora": "2025-10-02 22:43:13", "transaccion": "Proveedor", "datos": "Trama: 33100550000Soluciones Elite                                                                                    Javier Fonseca                                                             89403536correo@ejemplo.com                                                         1 | Resultado: EXITOSO" }
+{ "fechaHora": "2025-10-02 22:45:05", "transaccion": "Proveedor", "datos": "Trama: 43100550000Noches Mágicas                                                                                      Steven Harcia                                                              89403536correo@ejemplo.com                                                         1 | Resultado: ERROR" }
+{ "fechaHora": "2025-10-02 22:45:37", "transaccion": "Proveedor", "datos": "Trama: 33100550000Noches Mágicas                                                                                      Steven Harcia                                                              89403536correo@ejemplo.com                                                         1 | Resultado: DUPLICADO" }
+{ "fechaHora": "2025-10-02 22:45:51", "transaccion": "Proveedor", "datos": "Trama: 33100550001Noches Mágicas                                                                                      Steven Harcia                                                              89403536correo@ejemplo.com                                                         1 | Resultado: EXITOSO" }
+{ "fechaHora": "2025-10-02 22:54:05", "transaccion": "Proveedor", "datos": "Trama: 43100550001Noches Mágicas                                                                                      Steven Harcia                                                              89403536correo@ejemplo.com                                                         1 | Resultado: EXITOSO" }
+{ "fechaHora": "2025-10-02 22:54:19", "transaccion": "Proveedor", "datos": "Trama: 43100550001Noches Mágicas                                                                                      Steven garcia                                                              89403536correo@ejemplo.com                                                         1 | Resultado: EXITOSO" }
+{ "fechaHora": "2025-10-02 22:55:54", "transaccion": "Proveedor", "datos": "Trama: 43100550001Noches Mágicas                                                                                      Steven garcia                                                              89403536correo@ejemplo.com                                                         1 | Resultado: EXITOSO" }
+{ "fechaHora": "2025-10-02 23:02:39", "transaccion": "Proveedor", "datos": "Trama: 43100550001Noches Mágicas                                                                                      Steven garcia                                                              89403536correo@ejemplo.com                                                         1 | Resultado: EXITOSO" }
+{ "fechaHora": "2025-10-02 23:05:35", "transaccion": "Proveedor", "datos": "Trama: 43100550001Noches Mágicas                                                                                      Steven garcia                                                              89403536correo@ejemplo.com                                                         1 | Resultado: EXITOSO" }
+{ "fechaHora": "2025-10-02 23:07:09", "transaccion": "Proveedor", "datos": "Trama: 33100550001Noches Mágicas                                                                                      Steven garcia                                                              89403536correo@ejemplo.com                                                         1 | Resultado: DUPLICADO" }
+{ "fechaHora": "2025-10-02 23:07:43", "transaccion": "Proveedor", "datos": "Trama: 33100550001Noches Mágicas                                                                                      Steven garcia                                                              89403536correo@ejemplo.com                                                         1 | Resultado: DUPLICADO" }
+{ "fechaHora": "2025-10-02 23:08:08", "transaccion": "Compra", "datos": "Trama: 525262020002025092731005500003444550000000034534446000000000100 | Resultado: ERROR" }
+{ "fechaHora": "2025-10-02 23:08:27", "transaccion": "Compra", "datos": "Trama: 525262020002025092731005500003444550000000034534446000000000100 | Resultado: ERROR" }
+{ "fechaHora": "2025-10-02 23:13:14", "transaccion": "Compra", "datos": "Trama: 525262020002025092731005500003444550000000034534446000000000100 | Resultado: EXITOSO" }
+{ "fechaHora": "2025-10-02 23:14:09", "transaccion": "Compra", "datos": "Trama: 525262020002025092731005500003444550000000034534446000000000100 | Resultado: EXITOSO" }
+{ "fechaHora": "2025-10-02 23:15:54", "transaccion": "Compra", "datos": "Trama: 525262020002025092731005500003444550000000034534446000000000100 | Resultado: ERROR" }
+{ "fechaHora": "2025-10-02 23:21:04", "transaccion": "Compra", "datos": "Trama: 525262020002025092731005500003444550000000034534446000000000100 | Resultado: ERROR" }
+{ "fechaHora": "2025-10-02 23:22:38", "transaccion": "Compra", "datos": "Trama: 525262020002025092731005500003444550000000034534446000000000100 | Resultado: ERROR" }
+{ "fechaHora": "2025-10-02 23:24:55", "transaccion": "Compra", "datos": "Trama: 525262020002025092731005500003444550000000034534446000000000100 | Resultado: ERROR" }
+{ "fechaHora": "2025-10-02 23:27:30", "transaccion": "Compra", "datos": "Trama: 525262020002025092731005500003444550000000034534446000000000100 | Resultado: ERROR" }
+{ "fechaHora": "2025-10-02 23:28:53", "transaccion": "Compra", "datos": "Trama: 525262020002025092731005500003444550000000034534446000000000100 | Resultado: ERROR" }
+{ "fechaHora": "2025-10-02 23:30:54", "transaccion": "Compra", "datos": "Trama: 525262020002025092731005500003444550000000034534446000000000100 | Resultado: ERROR" }
+{ "fechaHora": "2025-10-02 23:34:45", "transaccion": "Compra", "datos": "Trama: 525262020002025092713444550000000034534446000000000100 | Resultado: ERROR" }
+{ "fechaHora": "2025-10-02 23:36:11", "transaccion": "Compra", "datos": "Trama: 525262020002025092731005500003444550000000034534446000000000100 | Resultado: ERROR" }
+{ "fechaHora": "2025-10-04 10:15:42", "transaccion": "Proveedor", "datos": "Trama: 33100550001Noches Mágicas                                                                                      Steven garcia                                                              89403536correo@ejemplo.com                                                         1 | Resultado: DUPLICADO" }
+]
+  { "fechaHora": "2025-10-04 12:41:54", "transaccion": "INSERCIÓN FALLIDA", "datos": "Proveedor duplicado: Noches Mágicas (3100550001)" },
+]
+]
+]
+]
+]
+]
+]
+  { "fechaHora": "2025-10-04 16:05:34", "transaccion": "VALIDACIÓN FALLIDA", "datos": "Cédula: 308746798, Nombre: Lia Sabella, Contacto: LG3" },
+  { "fechaHora": "2025-10-04 16:10:19", "transaccion": "VALIDACIÓN FALLIDA", "datos": "Cédula: 308746798, Nombre: Lia Sabella, Contacto: LG3" },
+  { "fechaHora": "2025-10-04 16:10:31", "transaccion": "VALIDACIÓN FALLIDA", "datos": "Cédula: 308746798, Nombre: Lia Sabella, Contacto: LG3" },
+  { "fechaHora": "2025-10-04 16:10:38", "transaccion": "TIPO INVÁLIDO", "datos": "Tipo de operación no reconocido: 6" },
+  { "fechaHora": "2025-10-04 16:11:43", "transaccion": "TIPO INVÁLIDO", "datos": "Tipo de operación no reconocido: 6" },
+  { "fechaHora": "2025-10-04 16:17:58", "transaccion": "TIPO INVÁLIDO", "datos": "Tipo de operación no reconocido: 6" },
+  { "fechaHora": "2025-10-04 16:32:38", "transaccion": "VALIDACIÓN FALLIDA", "datos": "Cédula: 304780607, Nombre: Lia Sabella, Contacto: STGE" },
+  { "fechaHora": "2025-10-04 16:32:54", "transaccion": "ERROR INSERCIÓN", "datos": "Error al insertar proveedor: Lia Sabella (3047806077)" },
+  { "fechaHora": "2025-10-04 16:34:20", "transaccion": "ERROR INSERCIÓN", "datos": "Error al insertar proveedor: Lia Sabella (3047806077)" },
+  { "fechaHora": "2025-10-04 16:51:22", "transaccion": "INSERTAR PROVEEDOR", "datos": "Proveedor agregado: Lia Sabella (3047806077)" },
+  { "fechaHora": "2025-10-04 16:53:45", "transaccion": "ACTUALIZAR PROVEEDOR", "datos": "Proveedor actualizado: Li Sabella (3047806077)" },
+  { "fechaHora": "2025-10-04 17:07:54", "transaccion": "EXCEPCIÓN", "datos": "Error procesando trama: Text '2025-10-' could not be parsed at index 4" },
+  { "fechaHora": "2025-10-04 17:13:48", "transaccion": "EXCEPCIÓN", "datos": "Error procesando trama: Text '2025-10-' could not be parsed at index 4" },
+  { "fechaHora": "2025-10-04 17:14:03", "transaccion": "EXCEPCIÓN", "datos": "Error procesando trama: Text '2025-10-' could not be parsed at index 8" },
+  { "fechaHora": "2025-10-04 17:21:49", "transaccion": "REGISTRAR COMPRA", "datos": "Compra #2526202000 registrada (Proveedor 3047806077, 1 productos)" },
+  { "fechaHora": "2025-10-04 17:23:24", "transaccion": "REGISTRAR COMPRA", "datos": "Compra #2526202000 registrada (Proveedor 3047806077, 1 productos)" },
+]
+  { "fechaHora": "2025-10-07 18:39:24", "transaccion": "ERROR REGISTRO", "datos": "Fallo al registrar compra #2526202000 del proveedor 3100550000" },
+]
+]
+  { "fechaHora": "2025-10-07 18:40:16", "transaccion": "ERROR REGISTRO", "datos": "Fallo al registrar compra #2526202000 del proveedor 3100550000" },
+]
