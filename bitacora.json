@@ -1,0 +1,40 @@
+{
+  "Fecha": "2025-11-07 15:20:29",
+  "Solicitud": "CrearUsuario | Usuario: joseflppz, Tipo: 2",
+  "Respuesta": "Resultado: False, Mensaje: Usuario ya existe o datos incorrectos o incompletos"
+}
+{
+  "Fecha": "2025-11-07 15:20:46",
+  "Solicitud": "CrearUsuario | Usuario: joseflppz, Tipo: 1",
+  "Respuesta": "Resultado: False, Mensaje: Usuario ya existe o datos incorrectos o incompletos"
+}
+{
+  "Fecha": "2025-11-07 15:23:54",
+  "Solicitud": "AutenticarUsuario | Usuario: Rafel, Tipo: 2",
+  "Respuesta": "Resultado: False, Mensaje: Usuario y/o contraseña incorrectos."
+}
+{
+  "Fecha": "2025-11-07 15:34:58",
+  "Solicitud": "AutenticarUsuario | Usuario: asoto, Tipo: 1",
+  "Respuesta": "Resultado: False, Mensaje: Usuario y/o contraseña incorrectos."
+}
+{
+  "Fecha": "2025-11-07 15:43:50",
+  "Solicitud": "AutenticarUsuario | Usuario: asoto, Tipo: 1",
+  "Respuesta": "Resultado: False, Mensaje: Usuario y/o contraseña incorrectos."
+}
+{
+  "Fecha": "2025-11-07 15:45:39",
+  "Solicitud": "CrearUsuario | Usuario: josefalopa, Tipo: 2",
+  "Respuesta": "Resultado: True, Mensaje: Exitoso"
+}
+{
+  "Fecha": "2025-11-07 15:46:30",
+  "Solicitud": "AutenticarUsuario | Usuario: josefalopa, Tipo: 2",
+  "Respuesta": "Resultado: True, Mensaje: Exitoso"
+}
+{
+  "Fecha": "2025-11-07 15:47:27",
+  "Solicitud": "CambiarEstadoUsuario | Id: 306660777",
+  "Respuesta": "Error interno: '306660777' is not a valid 24 digit hex string."
+}
