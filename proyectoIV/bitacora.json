@@ -1,0 +1,294 @@
+[
+    {
+        "fecha_hora": "2025-10-06 23:31:54",
+        "tipo_transaccion": "cliente",
+        "status": "OK",
+        "datos": {
+            "Identificacion": "10101010",
+            "Transaccion": "agregar"
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 23:31:54",
+        "tipo_transaccion": "compra",
+        "status": "1",
+        "datos": {
+            "NumeroCompra": "C001",
+            "Total": 15000
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 23:31:54",
+        "tipo_transaccion": "cliente",
+        "status": "Error: cliente con historial",
+        "datos": {
+            "Identificacion": "10101010",
+            "Transaccion": "borrar"
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 23:41:47",
+        "tipo_transaccion": "desconocido",
+        "status": "4",
+        "datos": {
+            "tipo_transaccion": "3",
+            "cedula_juridica": "1234567891",
+            "nombre": "aa",
+            "contacto": "a",
+            "telefono": "88888888",
+            "correo": "a@gmail.com",
+            "estado": 1
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 23:41:56",
+        "tipo_transaccion": "desconocido",
+        "status": "4",
+        "datos": {
+            "tipo_transaccion": "3",
+            "cedula_juridica": "1234567891",
+            "nombre": "aa",
+            "contacto": "a",
+            "telefono": "88888888",
+            "correo": "a@gmail.com",
+            "estado": 1
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 23:43:43",
+        "tipo_transaccion": "desconocido",
+        "status": "4",
+        "datos": {
+            "tipo_transaccion": "3",
+            "cedula_juridica": "1111111111",
+            "nombre": "a",
+            "contacto": "a",
+            "telefono": "88888888",
+            "correo": "a@gmail.com",
+            "estado": 1
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 23:46:18",
+        "tipo_transaccion": "compra",
+        "status": "4",
+        "datos": {
+            "datos": {
+                "numero_compra": "123",
+                "id_cliente": "109238745",
+                "fecha_compra": "2025-10-06",
+                "tarjeta": "MTExMTExMTExMTExMTExMQ==",
+                "vencimiento": "MTIvMjc=",
+                "cvv": "MzQ1",
+                "productos": [
+                    {
+                        "codigo": "78",
+                        "cantidad": 5,
+                        "detalle": ""
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "fecha_hora": "2025-10-07 18:42:09",
+        "tipo_transaccion": "cliente",
+        "status": "4",
+        "datos": {
+            "Identificacion": "123",
+            "Nombre": "a",
+            "Apellido1": "a",
+            "Apellido2": "a",
+            "Correo": "a@gmail.com",
+            "Telefono": "88888888",
+            "Direccion": "a",
+            "transaccion": "agregar"
+        }
+    },
+    {
+        "fecha_hora": "2025-10-07 18:43:03",
+        "tipo_transaccion": "desconocido",
+        "status": "4",
+        "datos": {
+            "tipo_transaccion": "3",
+            "cedula_juridica": "1234567891",
+            "nombre": "q",
+            "contacto": "q",
+            "telefono": "88888888",
+            "correo": "a@gmail.com",
+            "estado": 1
+        }
+    },
+    {
+        "fecha_hora": "2025-10-07 19:26:47",
+        "tipo_transaccion": "desconocido",
+        "status": "4",
+        "datos": {
+            "tipo_transaccion": "3",
+            "cedula_juridica": "1234567891",
+            "nombre": "aa",
+            "contacto": "a",
+            "telefono": "88888888",
+            "correo": "a@gmail.com",
+            "estado": 1
+        }
+    },
+    {
+        "fecha_hora": "2025-10-07 19:37:20",
+        "tipo_transaccion": "desconocido",
+        "status": "4",
+        "datos": {
+            "tipo_transaccion": "3",
+            "cedula_juridica": "1234567891",
+            "nombre": "Azzz",
+            "contacto": "azz",
+            "telefono": "88888888",
+            "correo": "a@gmail.com",
+            "estado": 1
+        }
+    },
+    {
+        "fecha_hora": "2025-10-07 19:37:43",
+        "tipo_transaccion": "desconocido",
+        "status": "4",
+        "datos": {
+            "tipo_transaccion": "3",
+            "cedula_juridica": "1234567891",
+            "nombre": "Azzz",
+            "contacto": "azz",
+            "telefono": "88888888",
+            "correo": "a@gmail.com",
+            "estado": 1
+        }
+    },
+    {
+        "fecha_hora": "2025-10-07 19:37:54",
+        "tipo_transaccion": "desconocido",
+        "status": "4",
+        "datos": {
+            "tipo_transaccion": "3",
+            "cedula_juridica": "1234567891",
+            "nombre": "Azzz",
+            "contacto": "azz",
+            "telefono": "88888888",
+            "correo": "a@gmail.com",
+            "estado": 1
+        }
+    },
+    {
+        "fecha_hora": "2025-10-07 19:39:00",
+        "tipo_transaccion": "desconocido",
+        "status": "4",
+        "datos": {
+            "tipo_transaccion": "3",
+            "cedula_juridica": "1111111111",
+            "nombre": "a",
+            "contacto": "a",
+            "telefono": "11111111",
+            "correo": "a@gmail.com",
+            "estado": 1
+        }
+    },
+    {
+        "fecha_hora": "2025-10-07 19:39:04",
+        "tipo_transaccion": "desconocido",
+        "status": "4",
+        "datos": {
+            "tipo_transaccion": "3",
+            "cedula_juridica": "1111111111",
+            "nombre": "a",
+            "contacto": "a",
+            "telefono": "11111111",
+            "correo": "a@gmail.com",
+            "estado": 1
+        }
+    },
+    {
+        "fecha_hora": "2025-10-07 20:36:30",
+        "tipo_transaccion": "compra",
+        "status": "4",
+        "datos": {
+            "datos": {
+                "numero_compra": "1111",
+                "id_cliente": "1111111111",
+                "fecha_compra": "2025-10-07",
+                "tarjeta": "MTExMTExMTExMTExMTExMQ==",
+                "vencimiento": "MTEvMTE=",
+                "cvv": "MTExMQ==",
+                "productos": [
+                    {
+                        "codigo": "111",
+                        "cantidad": 11,
+                        "detalle": ""
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "fecha_hora": "2025-10-07 20:41:33",
+        "tipo_transaccion": "cliente",
+        "status": "4",
+        "datos": {
+            "Identificacion": "111",
+            "Nombre": "aaa",
+            "Apellido1": "aaa",
+            "Apellido2": "aaa",
+            "Correo": "a@gmail.com",
+            "Telefono": "88888888",
+            "Direccion": "aaa",
+            "transaccion": "agregar"
+        }
+    },
+    {
+        "fecha_hora": "2025-10-07 20:44:34",
+        "tipo_transaccion": "cliente",
+        "status": "4",
+        "datos": {
+            "Identificacion": "111",
+            "Nombre": "aaa",
+            "Apellido1": "aaa",
+            "Apellido2": "aaa",
+            "Correo": "a@gmail.com",
+            "Telefono": "88888888",
+            "Direccion": "aaa",
+            "transaccion": "agregar"
+        }
+    },
+    {
+        "fecha_hora": "2025-10-07 20:48:38",
+        "tipo_transaccion": "compra",
+        "status": "4",
+        "datos": {
+            "datos": {
+                "numero_compra": "44",
+                "id_cliente": "1234567891",
+                "fecha_compra": "2025-10-07",
+                "tarjeta": "MTExMTEyMzYyMzQ2MzE0Ng==",
+                "vencimiento": "MDcvNzk=",
+                "cvv": "MTEx",
+                "productos": [
+                    {
+                        "codigo": "1",
+                        "cantidad": 1,
+                        "detalle": ""
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "fecha_hora": "2025-10-07 20:49:44",
+        "tipo_transaccion": "desconocido",
+        "status": "4",
+        "datos": {
+            "tipo_transaccion": "3",
+            "cedula_juridica": "1234567891",
+            "nombre": "AAA",
+            "contacto": "AAA",
+            "telefono": "88888888",
+            "correo": "A@GMAIL.COM",
+            "estado": 1
+        }
+    }
+]

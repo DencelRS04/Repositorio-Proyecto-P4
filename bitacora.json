@@ -1,0 +1,1260 @@
+[
+    {
+        "fecha_hora": "2025-10-05 22:38:24",
+        "tipo_transaccion": "desconocido",
+        "status": "4",
+        "datos": {
+            "numero_compra": "1212121212",
+            "id_cliente": "2121212121",
+            "fecha_compra": "2025-10-05",
+            "tarjeta": "MTEyMjMzNDQ1NTY2Nzc4OA==",
+            "vencimiento": "MTEvMjc=",
+            "cvv": "NDMy",
+            "productos": [
+                {
+                    "codigo": "1122",
+                    "cantidad": 35,
+                    "detalle": "SEMILLAS"
+                }
+            ]
+        }
+    },
+    {
+        "fecha_hora": "2025-10-05 22:45:30",
+        "tipo_transaccion": "desconocido",
+        "status": "4",
+        "datos": {
+            "numero_compra": "4545454545",
+            "id_cliente": "5454454545",
+            "fecha_compra": "2025-10-05",
+            "tarjeta": "ODg3NzY2NTU0NDMzMjIxMQ==",
+            "vencimiento": "MTEvMjg=",
+            "cvv": "MjIz",
+            "productos": [
+                {
+                    "codigo": "7676",
+                    "cantidad": 200,
+                    "detalle": "LAPIZ"
+                }
+            ]
+        }
+    },
+    {
+        "fecha_hora": "2025-10-05 22:59:44",
+        "tipo_transaccion": "desconocido",
+        "status": "4",
+        "datos": {
+            "numero_compra": "9090909099",
+            "id_cliente": "9191919191",
+            "fecha_compra": "2025-10-05",
+            "tarjeta": "OTk4ODc3NjY1NTQ0MzMyMg==",
+            "vencimiento": "MTEvMjg=",
+            "cvv": "MTIx",
+            "productos": [
+                {
+                    "codigo": "009",
+                    "cantidad": 90,
+                    "detalle": "conejos"
+                }
+            ]
+        }
+    },
+    {
+        "fecha_hora": "2025-10-05 23:03:23",
+        "tipo_transaccion": "desconocido",
+        "status": "4",
+        "datos": {
+            "numero_compra": "6767676767",
+            "id_cliente": "8787878787",
+            "fecha_compra": "2025-10-05",
+            "tarjeta": "MDA5OTg4Nzc2NjU1NDQzMw==",
+            "vencimiento": "MTEvMjg=",
+            "cvv": "NDQz",
+            "productos": [
+                {
+                    "codigo": "920",
+                    "cantidad": 70,
+                    "detalle": "Cajas"
+                }
+            ]
+        }
+    },
+    {
+        "numero_compra": "002",
+        "id_cliente": "301230123",
+        "fecha_compra": "2025-10-05",
+        "productos": [
+            {
+                "codigo": "086",
+                "cantidad": 50,
+                "detalle": "Uvas"
+            }
+        ]
+    },
+    {
+        "fecha_hora": "2025-10-05 23:34:17",
+        "tipo_transaccion": "compra",
+        "status": "1",
+        "datos": {
+            "datos": {
+                "numero_compra": "002",
+                "id_cliente": "301230123",
+                "fecha_compra": "2025-10-05",
+                "tarjeta": "NTUxODIyMzM0NDU1NjY3Nw==",
+                "vencimiento": "MzAvMjk=",
+                "cvv": "MzI0",
+                "productos": [
+                    {
+                        "codigo": "086",
+                        "cantidad": 50,
+                        "detalle": "Uvas"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "numero_compra": "003",
+        "id_cliente": "4004040404",
+        "fecha_compra": "2025-10-05",
+        "productos": [
+            {
+                "codigo": "087",
+                "cantidad": 55,
+                "detalle": "Fresas"
+            }
+        ]
+    },
+    {
+        "fecha_hora": "2025-10-05 23:35:27",
+        "tipo_transaccion": "compra",
+        "status": "1",
+        "datos": {
+            "datos": {
+                "numero_compra": "003",
+                "id_cliente": "4004040404",
+                "fecha_compra": "2025-10-05",
+                "tarjeta": "NTUxODIyMzM0NDU1ODg5OQ==",
+                "vencimiento": "MjgvMjk=",
+                "cvv": "NDIz",
+                "productos": [
+                    {
+                        "codigo": "087",
+                        "cantidad": 55,
+                        "detalle": "Fresas"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "fecha_hora": "2025-10-05 23:54:00",
+        "tipo_transaccion": "desconocido",
+        "status": "4",
+        "datos": {
+            "datos": {
+                "identificacion": "789",
+                "nombre": "Sebastian",
+                "apellido1": "Lopez",
+                "apellido2": "Andrade",
+                "correo": "sbslop@gmail.com",
+                "telefono": "2222-2222",
+                "direccion": "Cartago",
+                "transaccion": "agregar"
+            }
+        }
+    },
+    {
+        "fecha_hora": "2025-10-05 23:58:45",
+        "tipo_transaccion": "desconocido",
+        "status": "4",
+        "datos": {
+            "datos": {
+                "identificacion": "789",
+                "nombre": "DENCEL",
+                "apellido1": "LOPEZ",
+                "apellido2": "SOLANO",
+                "correo": "dencelsol@gmail.com",
+                "telefono": "2222-2222",
+                "direccion": "Tejar, Cartago",
+                "transaccion": "agregar"
+            }
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 00:05:17",
+        "tipo_transaccion": "desconocido",
+        "status": "4",
+        "datos": {
+            "datos": {
+                "identificacion": "789",
+                "nombre": "Jesus",
+                "apellido1": "Lopez",
+                "apellido2": "Andrade",
+                "correo": "jesuslop@gmail.com",
+                "telefono": "2222-2222",
+                "direccion": "Tejar, Cartago",
+                "transaccion": "agregar"
+            }
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 00:10:12",
+        "tipo_transaccion": "desconocido",
+        "status": "4",
+        "datos": {
+            "datos": {
+                "identificacion": "789",
+                "nombre": "JESUS",
+                "apellido1": "LOPEZ",
+                "apellido2": "ANDRADE",
+                "correo": "jesuslop@gmail.com",
+                "telefono": "2222-2222",
+                "direccion": "Orosi, Cartago",
+                "transaccion": "agregar"
+            }
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 00:12:53",
+        "tipo_transaccion": "desconocido",
+        "status": "4",
+        "datos": {
+            "datos": {
+                "identificacion": "789",
+                "nombre": "asasasa",
+                "apellido1": "lop",
+                "apellido2": "flo",
+                "correo": "asasa@gmail.com",
+                "telefono": "2222-2222",
+                "direccion": "Cartago",
+                "transaccion": "agregar"
+            }
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 00:16:29",
+        "tipo_transaccion": "desconocido",
+        "status": "4",
+        "datos": {
+            "datos": {
+                "identificacion": "789",
+                "nombre": "sakldsjald",
+                "apellido1": "IPWIEWPO",
+                "apellido2": "WEWEWE`",
+                "correo": "sadskljads@gmail.com",
+                "telefono": "2222-2222",
+                "direccion": "cartago",
+                "transaccion": "agregar"
+            }
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 00:21:25",
+        "tipo_transaccion": "desconocido",
+        "status": "4",
+        "datos": {
+            "datos": {
+                "identificacion": "789",
+                "nombre": "JOSE",
+                "apellido1": "FLOPZ",
+                "apellido2": "CARRASCO",
+                "correo": "joseca@gmail.com",
+                "telefono": "2222-2222",
+                "direccion": "Cartago",
+                "transaccion": "agregar"
+            }
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 00:25:28",
+        "tipo_transaccion": "desconocido",
+        "status": "4",
+        "datos": {
+            "datos": {
+                "identificacion": "789",
+                "nombre": "felipe",
+                "apellido1": "flores",
+                "apellido2": "gallardo",
+                "correo": "feli@gmail.com",
+                "telefono": "2222-2222",
+                "direccion": "Cartago",
+                "transaccion": "agregar"
+            }
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 00:29:08",
+        "tipo_transaccion": "desconocido",
+        "status": "4",
+        "datos": {
+            "datos": {
+                "identificacion": "789",
+                "nombre": "jdksjd",
+                "apellido1": "djspdjspdjspodiju",
+                "apellido2": "powpowiupoiewue",
+                "correo": "ljs;ldjsd@gmail.com",
+                "telefono": "3333-3333",
+                "direccion": "Cartago",
+                "transaccion": "agregar"
+            }
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 00:33:16",
+        "tipo_transaccion": "desconocido",
+        "status": "4",
+        "datos": {
+            "identificacion": "789",
+            "nombre": "Grefg",
+            "apellido1": "Lopez",
+            "apellido2": "Soldeano",
+            "correo": "grefg@gmail.com",
+            "telefono": "4444-5555",
+            "direccion": "Cartago",
+            "transaccion": "agregar"
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 00:35:55",
+        "tipo_transaccion": "desconocido",
+        "status": "4",
+        "datos": {
+            "identificacion": "789",
+            "nombre": "Key",
+            "apellido1": "klwdjwp",
+            "apellido2": "dsjspjdpoiksdj",
+            "correo": "fkdlfjdlj@gmail.com",
+            "telefono": "2222-2222",
+            "direccion": "Cartghogh",
+            "transaccion": "agregar"
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 00:41:01",
+        "tipo_transaccion": "desconocido",
+        "status": "4",
+        "datos": {
+            "datos": {
+                "identificacion": "789",
+                "nombre": "DHJKSDHSJKDHJ",
+                "apellido1": "ADJUISODUS",
+                "apellido2": "WOIEWOPEPIW",
+                "correo": "akjhdlahjkd@gmail.com",
+                "telefono": "5555-5555",
+                "direccion": "Cartago",
+                "transaccion": "agregar"
+            }
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 00:47:35",
+        "tipo_transaccion": "desconocido",
+        "status": "4",
+        "datos": {
+            "identificacion": "789",
+            "nombre": "joseosjasdj",
+            "apellido1": "lpoepsdpsj",
+            "apellido2": "gflfp[ierojwe",
+            "correo": "jose@gmail.com",
+            "telefono": "5555-5555",
+            "direccion": "San IsidroQ",
+            "transaccion": "agregar"
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 00:50:14",
+        "tipo_transaccion": "desconocido",
+        "status": "4",
+        "datos": {
+            "identificacion": "789",
+            "nombre": "jkodshdfjiokshfdjkshfdkshfksjhfdkjshf",
+            "apellido1": "florss",
+            "apellido2": "jdkosjdoklsdojh",
+            "correo": "jdokshdskjdg@gmail.com",
+            "telefono": "3444-5555",
+            "direccion": "Cartago",
+            "transaccion": "agregar"
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 00:51:21",
+        "tipo_transaccion": "desconocido",
+        "status": "4",
+        "datos": {
+            "identificacion": "789",
+            "nombre": "jkodshdfjiokshfdjkshfdkshfksjhfdkjshf",
+            "apellido1": "florss",
+            "apellido2": "jdkosjdoklsdojh",
+            "correo": "jdokshdskjdg@gmail.com",
+            "telefono": "3444-5555",
+            "direccion": "Cartago",
+            "transaccion": "agregar"
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 00:53:40",
+        "tipo_transaccion": "desconocido",
+        "status": "4",
+        "datos": {
+            "datos": {
+                "identificacion": "789",
+                "nombre": "KEYLOR",
+                "apellido1": "SHFKJISDHGFDJF",
+                "apellido2": "IKFDDKSLJFHKDJFH",
+                "correo": "KEYHJSKDGHSJK@gamil.com",
+                "telefono": "8787-87878",
+                "direccion": "EUIOEREOIUY",
+                "transaccion": "agregar"
+            }
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 00:56:39",
+        "tipo_transaccion": "desconocido",
+        "status": "4",
+        "datos": {
+            "datos": {
+                "identificacion": "789",
+                "nombre": "jkowhjdjkhioeghfiuq",
+                "apellido1": "oikhfdojidhfijdhfjidkhg",
+                "apellido2": "kjhwskijfhdsjkfhgdkjs",
+                "correo": "jkhefiuhgdijfghdbfkjdhgf@gmail.com",
+                "telefono": "3i94398473",
+                "direccion": "hfkjdshfjksdhgq",
+                "transaccion": "agregar"
+            }
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 00:59:39",
+        "tipo_transaccion": "desconocido",
+        "status": "4",
+        "datos": {
+            "datos": {
+                "identificacion": "789",
+                "nombre": "JOSE",
+                "apellido1": "LOPEZ",
+                "apellido2": "flores",
+                "correo": "JOSE@GMAIL.COM",
+                "telefono": "7777-7777",
+                "direccion": "cARTGAO",
+                "transaccion": "agregar"
+            }
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 01:05:16",
+        "tipo_transaccion": "desconocido",
+        "status": "4",
+        "datos": {
+            "datos": {
+                "Identificacion": "789",
+                "Nombre": "JOSESITO",
+                "Apellido1": "fkldfldhj",
+                "Apellido2": "ljdklsjfsklhjd",
+                "Correo": "jose@mail.com",
+                "Telefono": "6666-6666",
+                "Direccion": "djusiokdhsodfh",
+                "transaccion": "agregar"
+            }
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 01:10:08",
+        "tipo_transaccion": "desconocido",
+        "status": "4",
+        "datos": {
+            "datos": {
+                "identificacion": "789",
+                "nombre": "jdsfklfhjkldhfjkdshfjkdshfjkdshfkj",
+                "apellido1": "jkolfdhskjlfhsdfhusdihiu",
+                "apellido2": "hiufhgewdsiujfghdsiufghwi",
+                "correo": "jiopsjdfoish@gmail.com",
+                "telefono": "8787-8787",
+                "direccion": "oihsaqiujfhedwiufghdsij",
+                "transaccion": "agregar"
+            }
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 01:15:34",
+        "tipo_transaccion": "desconocido",
+        "status": "4",
+        "datos": {
+            "datos": {
+                "identificacion": "789",
+                "nombre": "JOSESIN",
+                "apellido1": "JDKOLSHFDLKS",
+                "apellido2": "KJDLOKPEWIUIOPEU",
+                "correo": "JOSESIN@GMAIL.COM",
+                "telefono": "6666-6666",
+                "direccion": "CARTAGO",
+                "transaccion": "agregar"
+            }
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 01:17:00",
+        "tipo_transaccion": "desconocido",
+        "status": "4",
+        "datos": {
+            "datos": {
+                "identificacion": "789",
+                "nombre": "JOSESIN",
+                "apellido1": "JDKOLSHFDLKS",
+                "apellido2": "KJDLOKPEWIUIOPEU",
+                "correo": "JOSESIN@GMAIL.COM",
+                "telefono": "6666-6666",
+                "direccion": "CARTAGO",
+                "transaccion": "agregar"
+            }
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 01:21:36",
+        "tipo_transaccion": "desconocido",
+        "status": "4",
+        "datos": {
+            "datosc": {
+                "identificacion": "789",
+                "nombre": "ALFREDSIN",
+                "apellido1": "JDIOKSDOPISHDO",
+                "apellido2": "IDFEIORIOEURIO",
+                "correo": "alfredin@gmail.com",
+                "telefono": "5555-5555",
+                "direccion": "SAN ISIDRO",
+                "transaccion": "agregar"
+            }
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 01:27:02",
+        "tipo_transaccion": "desconocido",
+        "status": "4",
+        "datos": {
+            "datos": {
+                "Identificacion": "789",
+                "Nombre": "FREDY",
+                "Apellido1": "GONDOLA",
+                "Apellido2": "FLORES",
+                "Correo": "freddy@gmail.com",
+                "Telefono": "666-666",
+                "Direccion": "higuito",
+                "transaccion": "agregar"
+            }
+        }
+    },
+    {
+        "numero_compra": "022",
+        "id_cliente": "308760543",
+        "fecha_compra": "2025-10-06",
+        "productos": [
+            {
+                "codigo": "088",
+                "cantidad": 60,
+                "detalle": "Barco"
+            }
+        ]
+    },
+    {
+        "fecha_hora": "2025-10-06 01:28:45",
+        "tipo_transaccion": "compra",
+        "status": "1",
+        "datos": {
+            "datos": {
+                "numero_compra": "022",
+                "id_cliente": "308760543",
+                "fecha_compra": "2025-10-06",
+                "tarjeta": "MjIxMTMzNDQ1NTY2Nzc4OA==",
+                "vencimiento": "MTEvMjk=",
+                "cvv": "NDMy",
+                "productos": [
+                    {
+                        "codigo": "088",
+                        "cantidad": 60,
+                        "detalle": "Barco"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 01:40:48",
+        "tipo_transaccion": "desconocido",
+        "status": "4",
+        "datos": {
+            "datos": {
+                "Identificacion": "7899",
+                "Nombre": "wioueiowueiowueiowuieouo",
+                "Apellido1": "uioeuioeuwioeuwoieuw",
+                "Apellido2": "udoisjhoklshjcklsdjhlk",
+                "Correo": "hkahkasdkjaghk@gmail.com",
+                "Telefono": "5555-5555",
+                "Direccion": "upoiwueoipwueiowu",
+                "transaccion": "agregar"
+            }
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 10:28:03",
+        "tipo_transaccion": "agregar",
+        "status": "OK",
+        "datos": {
+            "Identificacion": "5555555555555",
+            "Nombre": "ALBERTO",
+            "Apellido1": "JIMENEZ",
+            "Apellido2": "CASTRO",
+            "Correo": "alberto@gmail.com",
+            "Telefono": "7777-7777",
+            "Direccion": "San Jose",
+            "transaccion": "agregar"
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 10:28:03",
+        "tipo_transaccion": "cliente",
+        "status": "OK",
+        "datos": {
+            "Identificacion": "5555555555555",
+            "Nombre": "ALBERTO",
+            "Apellido1": "JIMENEZ",
+            "Apellido2": "CASTRO",
+            "Correo": "alberto@gmail.com",
+            "Telefono": "7777-7777",
+            "Direccion": "San Jose",
+            "transaccion": "agregar"
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 10:31:53",
+        "tipo_transaccion": "desconocido",
+        "status": "4",
+        "error": "1451 (23000): Cannot delete or update a parent row: a foreign key constraint fails (`verificadordb`.`compras`, CONSTRAINT `compras_ibfk_1` FOREIGN KEY (`IdCliente`) REFERENCES `clientes` (`IdCliente`))"
+    },
+    {
+        "fecha_hora": "2025-10-06 10:31:53",
+        "tipo_transaccion": "cliente",
+        "status": "4",
+        "datos": {
+            "Identificacion": "305670184",
+            "Nombre": "JOSE",
+            "Apellido1": "LOPEZ",
+            "Apellido2": "CARRASCO",
+            "Correo": "joselop@gmail.com",
+            "Telefono": "84848585",
+            "Direccion": "Higuito",
+            "transaccion": "eliminar"
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 10:38:41",
+        "tipo_transaccion": "eliminar",
+        "status": "OK",
+        "datos": {
+            "Identificacion": "5555555555555",
+            "Nombre": "ALBERTO",
+            "Apellido1": "JIMENEZ",
+            "Apellido2": "CASTRO",
+            "Correo": "alberto@gmail.com",
+            "Telefono": "7777-7777",
+            "Direccion": "San Jose",
+            "transaccion": "eliminar"
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 10:38:41",
+        "tipo_transaccion": "cliente",
+        "status": "OK",
+        "datos": {
+            "Identificacion": "5555555555555",
+            "Nombre": "ALBERTO",
+            "Apellido1": "JIMENEZ",
+            "Apellido2": "CASTRO",
+            "Correo": "alberto@gmail.com",
+            "Telefono": "7777-7777",
+            "Direccion": "San Jose",
+            "transaccion": "eliminar"
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 10:40:04",
+        "tipo_transaccion": "modificar",
+        "status": "OK",
+        "datos": {
+            "Identificacion": "305670184",
+            "Nombre": "JOSE",
+            "Apellido1": "LOPEZ",
+            "Apellido2": "FLORES",
+            "Correo": "joselop@gmail.com",
+            "Telefono": "8484-8585",
+            "Direccion": "Higuto, El Guarco",
+            "transaccion": "modificar"
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 10:40:04",
+        "tipo_transaccion": "cliente",
+        "status": "OK",
+        "datos": {
+            "Identificacion": "305670184",
+            "Nombre": "JOSE",
+            "Apellido1": "LOPEZ",
+            "Apellido2": "FLORES",
+            "Correo": "joselop@gmail.com",
+            "Telefono": "8484-8585",
+            "Direccion": "Higuto, El Guarco",
+            "transaccion": "modificar"
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 10:43:39",
+        "tipo_transaccion": "agregar",
+        "status": "OK",
+        "datos": {
+            "Identificacion": "6565656565",
+            "Nombre": "DENCEL",
+            "Apellido1": "LOPEZ",
+            "Apellido2": "ANDRADE",
+            "Correo": "dencel@gmail.com",
+            "Telefono": "5555-5555",
+            "Direccion": "El Carmen, Cartago",
+            "transaccion": "agregar"
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 10:43:39",
+        "tipo_transaccion": "cliente",
+        "status": "OK",
+        "datos": {
+            "Identificacion": "6565656565",
+            "Nombre": "DENCEL",
+            "Apellido1": "LOPEZ",
+            "Apellido2": "ANDRADE",
+            "Correo": "dencel@gmail.com",
+            "Telefono": "5555-5555",
+            "Direccion": "El Carmen, Cartago",
+            "transaccion": "agregar"
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 11:29:30",
+        "tipo_transaccion": "compra",
+        "status": "4",
+        "datos": {
+            "datos": {
+                "numero_compra": "0902",
+                "id_cliente": "70004444",
+                "fecha_compra": "2025-10-06",
+                "tarjeta": "Nzc3Nzc3Nzc3Nzc3Nzc3Nw==",
+                "vencimiento": "MjIyMjI=",
+                "cvv": "MjIyMg==",
+                "productos": [
+                    {
+                        "codigo": "23123",
+                        "cantidad": 222,
+                        "detalle": "perros"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 11:36:36",
+        "tipo_transaccion": "compra",
+        "status": "4",
+        "datos": {
+            "datos": {
+                "numero_compra": "2004",
+                "id_cliente": "89989898",
+                "fecha_compra": "2025-10-06",
+                "tarjeta": "MDAwMDAwMDAwMDAwMDAwMA==",
+                "vencimiento": "MDAwMDA=",
+                "cvv": "MDAwMA==",
+                "productos": [
+                    {
+                        "codigo": "121",
+                        "cantidad": 11111,
+                        "detalle": "compras"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 11:39:49",
+        "tipo_transaccion": "compra",
+        "status": "4",
+        "datos": {
+            "datos": {
+                "numero_compra": "90909090",
+                "id_cliente": "556",
+                "fecha_compra": "2025-10-06",
+                "tarjeta": "OTgyMjIzMTQxNDEyNDIxNA==",
+                "vencimiento": "MDkvMjc=",
+                "cvv": "MTIz",
+                "productos": [
+                    {
+                        "codigo": "2222",
+                        "cantidad": 222,
+                        "detalle": "pavos de fornite"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 11:40:04",
+        "tipo_transaccion": "compra",
+        "status": "4",
+        "datos": {
+            "datos": {
+                "numero_compra": "90909090",
+                "id_cliente": "556",
+                "fecha_compra": "2025-10-06",
+                "tarjeta": "OTgyMjIzMTQxNDEyNDIxNA==",
+                "vencimiento": "MDkvMjc=",
+                "cvv": "MTIz",
+                "productos": [
+                    {
+                        "codigo": "2222",
+                        "cantidad": 222,
+                        "detalle": "pavos de fornite"
+                    },
+                    {
+                        "codigo": "2222",
+                        "cantidad": 222,
+                        "detalle": "pavos de fornite"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 11:46:45",
+        "tipo_transaccion": "compra",
+        "status": "4",
+        "datos": {
+            "datos": {
+                "numero_compra": "9898989898",
+                "id_cliente": "2222222222",
+                "fecha_compra": "2025-10-06",
+                "tarjeta": "MjIyMjIyMjIyMjIyMjIyMg==",
+                "vencimiento": "MjIyMjI=",
+                "cvv": "MjIyMg==",
+                "productos": [
+                    {
+                        "codigo": "222",
+                        "cantidad": 2222222,
+                        "detalle": "cp"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 12:03:38",
+        "tipo_transaccion": "compra",
+        "status": "4",
+        "datos": {
+            "datos": {
+                "numero_compra": "5555555555",
+                "id_cliente": "5555555555",
+                "fecha_compra": "2025-10-06",
+                "tarjeta": "NTU1NTU1NTU1NTU1NTU1NQ==",
+                "vencimiento": "NTU1NTU=",
+                "cvv": "NTU1NQ==",
+                "productos": [
+                    {
+                        "codigo": "5555555555",
+                        "cantidad": 5555555,
+                        "detalle": "que"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 12:10:45",
+        "tipo_transaccion": "compra",
+        "status": "4",
+        "datos": {
+            "datos": {
+                "numero_compra": "4444444444",
+                "id_cliente": "4444444444",
+                "fecha_compra": "2025-10-06",
+                "tarjeta": "NDQ0",
+                "vencimiento": "NDQ=",
+                "cvv": "NA==",
+                "productos": [
+                    {
+                        "codigo": "4",
+                        "cantidad": 44,
+                        "detalle": "dwwe"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 12:16:26",
+        "tipo_transaccion": "compra",
+        "status": "4",
+        "datos": {
+            "datos": {
+                "numero_compra": "2222222222",
+                "id_cliente": "2222222222",
+                "fecha_compra": "2025-10-06",
+                "tarjeta": "MjIyMjIyMjIyMjIyMjIyMg==",
+                "vencimiento": "MjIyMjI=",
+                "cvv": "MjIyMg==",
+                "productos": [
+                    {
+                        "codigo": "2222222222",
+                        "cantidad": 2222222,
+                        "detalle": "dddddddddddddddddddddd"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 12:20:18",
+        "tipo_transaccion": "compra",
+        "status": "4",
+        "datos": {
+            "datos": {
+                "numero_compra": "2222222222",
+                "id_cliente": "2222222222",
+                "fecha_compra": "2025-10-06",
+                "tarjeta": "MjIyMjIyMjIyMjIyMjIyMg==",
+                "vencimiento": "MjIyMjI=",
+                "cvv": "MjIyMg==",
+                "productos": [
+                    {
+                        "codigo": "2222222222",
+                        "cantidad": 2222222,
+                        "detalle": "dddddddddddddddddddddd"
+                    },
+                    {
+                        "codigo": "2222222222",
+                        "cantidad": 2222222,
+                        "detalle": "dddddddddddddddddddddd"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 12:28:16",
+        "tipo_transaccion": "compra",
+        "status": "4",
+        "datos": {
+            "datos": {
+                "numero_compra": "2222222222",
+                "id_cliente": "2222222222",
+                "fecha_compra": "2025-10-06",
+                "tarjeta": "MjIyMjIyMjIyMjIyMjIyMg==",
+                "vencimiento": "MjIyMjI=",
+                "cvv": "MjIyMg==",
+                "productos": [
+                    {
+                        "codigo": "2222222222",
+                        "cantidad": 2222222,
+                        "detalle": "dddddddddddddddddddddd"
+                    },
+                    {
+                        "codigo": "2222222222",
+                        "cantidad": 2222222,
+                        "detalle": "dddddddddddddddddddddd"
+                    },
+                    {
+                        "codigo": "2222222222",
+                        "cantidad": 2222222,
+                        "detalle": "dddddddddddddddddddddd"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 12:28:37",
+        "tipo_transaccion": "compra",
+        "status": "4",
+        "datos": {
+            "datos": {
+                "numero_compra": "3222222222",
+                "id_cliente": "2222222222",
+                "fecha_compra": "2025-10-06",
+                "tarjeta": "MjIyMjIyMjIyMjIyMjIyMg==",
+                "vencimiento": "MjIyMjI=",
+                "cvv": "MjIyMg==",
+                "productos": [
+                    {
+                        "codigo": "2222222222",
+                        "cantidad": 2222222,
+                        "detalle": "dddddddddddddddddddddd"
+                    },
+                    {
+                        "codigo": "2222222222",
+                        "cantidad": 2222222,
+                        "detalle": "dddddddddddddddddddddd"
+                    },
+                    {
+                        "codigo": "2222222222",
+                        "cantidad": 2222222,
+                        "detalle": "dddddddddddddddddddddd"
+                    },
+                    {
+                        "codigo": "2222222222",
+                        "cantidad": 2222222,
+                        "detalle": "dddddddddddddddddddddd"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "numero_compra": "3333308234",
+        "id_cliente": "3333333333",
+        "fecha_compra": "2025-10-06",
+        "productos": [
+            {
+                "codigo": "21312",
+                "cantidad": 3123,
+                "detalle": "zanahoria"
+            }
+        ]
+    },
+    {
+        "fecha_hora": "2025-10-06 12:29:50",
+        "tipo_transaccion": "compra",
+        "status": "1",
+        "datos": {
+            "datos": {
+                "numero_compra": "3333308234",
+                "id_cliente": "3333333333",
+                "fecha_compra": "2025-10-06",
+                "tarjeta": "MzMzMzMzMzMzMzMzMzMzMw==",
+                "vencimiento": "MDkyMjM=",
+                "cvv": "MTIzMw==",
+                "productos": [
+                    {
+                        "codigo": "21312",
+                        "cantidad": 3123,
+                        "detalle": "zanahoria"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 12:42:06",
+        "tipo_transaccion": "agregar",
+        "status": "OK",
+        "datos": {
+            "Identificacion": "33333333333333333333",
+            "Nombre": "333333333333333333333333",
+            "Apellido1": "33333333333333333333333333333333333333333",
+            "Apellido2": "33333333333333",
+            "Correo": "3333",
+            "Telefono": "3333",
+            "Direccion": "333",
+            "transaccion": "agregar"
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 12:42:07",
+        "tipo_transaccion": "cliente",
+        "status": "OK",
+        "datos": {
+            "Identificacion": "33333333333333333333",
+            "Nombre": "333333333333333333333333",
+            "Apellido1": "33333333333333333333333333333333333333333",
+            "Apellido2": "33333333333333",
+            "Correo": "3333",
+            "Telefono": "3333",
+            "Direccion": "333",
+            "transaccion": "agregar"
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 12:48:35",
+        "tipo_transaccion": "desconocido",
+        "status": "4",
+        "error": "1406 (22001): Data too long for column 'Telefono' at row 1"
+    },
+    {
+        "fecha_hora": "2025-10-06 12:48:35",
+        "tipo_transaccion": "cliente",
+        "status": "4",
+        "datos": {
+            "Identificacion": "1191",
+            "Nombre": "feder",
+            "Apellido1": "sss",
+            "Apellido2": "ssss",
+            "Correo": "ssssssssss",
+            "Telefono": "9090909009009090",
+            "Direccion": "cartago",
+            "transaccion": "agregar"
+        }
+    },
+    {
+        "numero_compra": "9090909",
+        "id_cliente": "0909099090",
+        "fecha_compra": "2025-10-06",
+        "productos": [
+            {
+                "codigo": "2222222",
+                "cantidad": 2222222,
+                "detalle": "peeeeeerras"
+            }
+        ]
+    },
+    {
+        "fecha_hora": "2025-10-06 12:49:35",
+        "tipo_transaccion": "compra",
+        "status": "1",
+        "datos": {
+            "datos": {
+                "numero_compra": "9090909",
+                "id_cliente": "0909099090",
+                "fecha_compra": "2025-10-06",
+                "tarjeta": "MjIyMjIyMjIyMjIyMjIyMg==",
+                "vencimiento": "MjIyMjI=",
+                "cvv": "MjIyMg==",
+                "productos": [
+                    {
+                        "codigo": "2222222",
+                        "cantidad": 2222222,
+                        "detalle": "peeeeeerras"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "numero_compra": "8787878787",
+        "id_cliente": "8787878787",
+        "fecha_compra": "2025-10-06",
+        "productos": [
+            {
+                "codigo": "1111",
+                "cantidad": 11111,
+                "detalle": "perrros"
+            }
+        ]
+    },
+    {
+        "fecha_hora": "2025-10-06 12:51:55",
+        "tipo_transaccion": "compra",
+        "status": "1",
+        "datos": {
+            "datos": {
+                "numero_compra": "8787878787",
+                "id_cliente": "8787878787",
+                "fecha_compra": "2025-10-06",
+                "tarjeta": "MTExMTExMTExMTExMTExMQ==",
+                "vencimiento": "MTExMTE=",
+                "cvv": "MTExMQ==",
+                "productos": [
+                    {
+                        "codigo": "1111",
+                        "cantidad": 11111,
+                        "detalle": "perrros"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "fecha_hora": "2025-10-06 12:55:26",
+        "tipo_transaccion": "compra",
+        "status": "4",
+        "datos": {
+            "datos": {
+                "numero_compra": "4787878787",
+                "id_cliente": "4787878787",
+                "fecha_compra": "2025-10-06",
+                "tarjeta": "MTExMTExMTExMTExMTExMQ==",
+                "vencimiento": "MTExMTE=",
+                "cvv": "MTExMQ==",
+                "productos": [
+                    {
+                        "codigo": "1111",
+                        "cantidad": 11111,
+                        "detalle": "camsa"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "numero_compra": "9000909009",
+        "id_cliente": "4342321231",
+        "fecha_compra": "2025-10-06",
+        "productos": [
+            {
+                "codigo": "334",
+                "cantidad": 11,
+                "detalle": "434343"
+            }
+        ]
+    },
+    {
+        "fecha_hora": "2025-10-06 12:56:32",
+        "tipo_transaccion": "compra",
+        "status": "1",
+        "datos": {
+            "datos": {
+                "numero_compra": "9000909009",
+                "id_cliente": "4342321231",
+                "fecha_compra": "2025-10-06",
+                "tarjeta": "MzMzMzMzMzMzMzMzMzMzMw==",
+                "vencimiento": "MzMzMzM=",
+                "cvv": "MzMzMw==",
+                "productos": [
+                    {
+                        "codigo": "334",
+                        "cantidad": 11,
+                        "detalle": "434343"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "numero_compra": "4034444444",
+        "id_cliente": "2222222932",
+        "fecha_compra": "2025-10-06",
+        "productos": [
+            {
+                "codigo": "145452",
+                "cantidad": 23,
+                "detalle": "565652"
+            }
+        ]
+    },
+    {
+        "fecha_hora": "2025-10-06 22:20:36",
+        "tipo_transaccion": "compra",
+        "status": "1",
+        "datos": {
+            "datos": {
+                "numero_compra": "4034444444",
+                "id_cliente": "2222222932",
+                "fecha_compra": "2025-10-06",
+                "tarjeta": "MjIyMjIyMjIyMjIyMjIyMg==",
+                "vencimiento": "MjIyMjI=",
+                "cvv": "MjIyMg==",
+                "productos": [
+                    {
+                        "codigo": "145452",
+                        "cantidad": 23,
+                        "detalle": "565652"
+                    }
+                ]
+            }
+        }
+    }
+]
