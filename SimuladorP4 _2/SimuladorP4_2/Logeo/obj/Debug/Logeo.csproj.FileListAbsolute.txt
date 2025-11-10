@@ -1,0 +1,5 @@
+C:\Users\XPC\Desktop\ProyectoP4\DencelRS04\Repositorio-Proyecto-P4\SimuladorP4 _2\SimuladorP4_2\Logeo\obj\Debug\Logeo.csproj.AssemblyReference.cache
+C:\Users\XPC\Desktop\ProyectoP4\DencelRS04\Repositorio-Proyecto-P4\SimuladorP4 _2\SimuladorP4_2\Logeo\obj\Debug\Logeo.logeo.resources
+C:\Users\XPC\Desktop\ProyectoP4\DencelRS04\Repositorio-Proyecto-P4\SimuladorP4 _2\SimuladorP4_2\Logeo\obj\Debug\Logeo.Properties.Resources.resources
+C:\Users\XPC\Desktop\ProyectoP4\DencelRS04\Repositorio-Proyecto-P4\SimuladorP4 _2\SimuladorP4_2\Logeo\obj\Debug\Logeo.csproj.GenerateResource.cache
+C:\Users\XPC\Desktop\ProyectoP4\DencelRS04\Repositorio-Proyecto-P4\SimuladorP4 _2\SimuladorP4_2\Logeo\obj\Debug\Logeo.csproj.CoreCompileInputs.cache
